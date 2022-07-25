@@ -2,7 +2,6 @@
     box-sizing: border-box;
 }
 
-/* https://gridbyexample.com/examples/example8/ */
 
 .art1 {
     display: grid;
@@ -59,8 +58,6 @@
   grid-template-columns: repeat(4, 80px);
   grid-template-rows: repeat(3,100px);
 }
-
-/* https://gridbyexample.com/examples/example32/*/
 
 .art2 div {
   
